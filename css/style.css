@@ -46,6 +46,8 @@ div{
        div{
         display: inline-block;
         width: 45vw;
+          margin: 5px;
+  padding: 2px;
        
           }
        div img{5
@@ -56,9 +58,10 @@ div{
 }
 @media only screen and (min-width: 998px){
     div{
-      width: 30vw;
-      margin: 5px;
       display: inline-block;
+      width: 30vw;
+        margin: 5px;
+  padding: 2px;
     }
 }              
 
